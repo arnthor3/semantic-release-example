@@ -37,7 +37,7 @@
     "collectCoverage": true
   },
   "devDependencies": {
-    "@babel/cli": "^7.0.0-beta.47",
+    "@babel/cli": "^7.2.3",
     "@babel/core": "^7.0.0-beta.47",
     "@babel/preset-env": "^7.0.0-beta.47",
     "@commitlint/cli": "^7.0.0",
